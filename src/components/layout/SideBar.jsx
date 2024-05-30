@@ -147,7 +147,7 @@ export default function PersistentDrawerLeft() {
         <Box className="dashboardContainer" sx={{ minWidth: 275 }}>
             <LightModeOutlinedIcon />
             <Typography variant="h3" className="dashboardText">DASHBOARD</Typography>
-            <Typography variant="h6" sx={{ color: 600}}>Welcome to your dashboard</Typography>
+            <Typography variant="h6" sx={{ color: "green"}}>Welcome to your dashboard</Typography>
         </Box>
       </Main>
     </Box>

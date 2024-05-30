@@ -1,4 +1,4 @@
-[
+export const mockData = [
   {
     "txId": "01e4dsa",
     "user": "johnny",
